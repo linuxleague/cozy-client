@@ -4725,10 +4725,10 @@ cozy-interapp@^0.5.4:
   resolved "https://registry.yarnpkg.com/cozy-interapp/-/cozy-interapp-0.5.7.tgz#75cafe1732ad660e2caf1ccf412f302594705f39"
   integrity sha512-laIL/ATYV9oZnmqS+LMoO9qzk8XjJ1v2/YrA1Po2rI8ia/MDgjYO07424x2RuvHhNOBPGjD+JmqwQ0rNDlLW+Q==
 
-cozy-logger@1.7.0:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/cozy-logger/-/cozy-logger-1.7.0.tgz#945ff84df66f7e7e9640db00f8c632d4ff776fc8"
-  integrity sha512-JBOAmfgujZZASE4TCRfeNvHoDnxPwFbLMO3G6UReByjR3Ix1/RSEtOL9b4hReuG2XX0BsPokfLWCZEWRgGN4TQ==
+cozy-logger@1.10.1:
+  version "1.10.1"
+  resolved "https://registry.yarnpkg.com/cozy-logger/-/cozy-logger-1.10.1.tgz#077f2c517ce0d52eb28d19a22389ac0fb9fcc4b7"
+  integrity sha512-6/A5Hqd7cLHmCIhUdyaRdssb7wqsl+mcsVWG3ViJZUEKwtT3N/MoMptT/haPCDKR5XLxIlYbvLmQWom3qtJE+A==
   dependencies:
     chalk "^2.4.2"
     json-stringify-safe "5.0.1"
